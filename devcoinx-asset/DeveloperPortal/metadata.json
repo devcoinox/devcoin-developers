@@ -1,0 +1,16 @@
+{
+    "name": " Developer Coinx",
+    "symbol": "DEVCOINX",
+    "description": "DEV COIN is a special coin for blockchain technology developers. This coin is a programmer asset and a dev access key for various programs.",
+    "image": "https://devcoinx.top/logo.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
+
+
+
+
